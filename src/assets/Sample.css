@@ -1,0 +1,14 @@
+.Sample {
+  display: flex;
+  padding: .5rem 0;
+  border-bottom: 1px solid rgb(229, 229, 229) ;
+}
+.Sample .Sample__AddonBefore {
+  width:50px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.Sample .Sample__Content {
+  width: 100%;
+}

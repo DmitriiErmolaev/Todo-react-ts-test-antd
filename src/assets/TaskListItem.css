@@ -1,0 +1,8 @@
+.TaskListItem__checkbox {
+  transform: scale(1.5)
+}
+
+.TaskListItem__content.TaskListItem__content_completed {
+  opacity: 0.3;
+  text-decoration: line-through
+}
